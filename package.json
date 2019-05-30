@@ -1,5 +1,5 @@
 {
-  "name": "wi-sequelize-auto",
+  "name": "i2g-sequelize-auto",
   "version": "0.4.30",
   "description": "Automatically generate bare sequelize models from your database.",
   "main": "index",
